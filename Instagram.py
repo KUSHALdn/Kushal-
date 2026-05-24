@@ -8,10 +8,10 @@ ALLOWED_USERS = ["7839672511", "8587430685"]
 
 # --- 🎯 HIGH-APPROVAL BINS (UPDATED APRIL 2026) ---
 BINS_2026 = [
-    {"bin": "552433", "bank": "BMO", "country": "CANADA", "lvl": "WORLD ELITE", "type": "CREDIT"},
-    {"bin": "414720", "bank": "CAPITAL ONE", "country": "USA", "lvl": "SIGNATURE", "type": "CREDIT"},
-    {"bin": "401658", "bank": "NATWEST", "country": "UK", "lvl": "PLATINUM", "type": "DEBIT"},
-    {"bin": "491218", "bank": "TD BANK", "country": "CANADA", "lvl": "BUSINESS", "type": "CREDIT"}
+    {"bin": "481582", "bank": "BMO", "country": "CANADA", "lvl": "WORLD ELITE", "type": "CREDIT"},
+    {"bin": "465828", "bank": "CAPITAL ONE", "country": "USA", "lvl": "SIGNATURE", "type": "CREDIT"},
+    {"bin": "454287", "bank": "NATWEST", "country": "UK", "lvl": "PLATINUM", "type": "DEBIT"},
+    {"bin": "433000", "bank": "TD BANK", "country": "CANADA", "lvl": "BUSINESS", "type": "CREDIT"}
 ]
 
 def check_luhn(n):
